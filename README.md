@@ -3,7 +3,7 @@
 - it's a solo project
 -the project is split in 2 part (00_how_to_docker 01_dockerfiles)
 
-![Screenshot](ressources/img/cursus_42.png)
+![Screenshot](cursus_42.png)
 
 # 42-docker
  Row, row, row your boat... gently down the stream..
